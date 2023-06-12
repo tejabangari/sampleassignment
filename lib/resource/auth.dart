@@ -33,5 +33,5 @@ import 'package:employee_timesheet/model/user_model.dart';
     }return resp;
 
   }
-  Future<String> loginpage
+  Future<String> login
  }
